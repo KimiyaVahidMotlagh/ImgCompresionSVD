@@ -5,7 +5,7 @@ the image with reduced dimensions. This compression technique can significantly 
 ## Tabel of content
 - [Requirements](https://github.com/KimiyaVahidMotlagh/ImgCompresionSVD/tree/main#requirements) <br/>
 - [Code Explanation](https://github.com/KimiyaVahidMotlagh/ImgCompresionSVD/tree/main#code-explanation) <br/>
-- [Usage](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort/blob/main/README.md#run-and-evaluation) <br/>
+- [Usage](https://github.com/KimiyaVahidMotlagh/ImgCompresionSVD?tab=readme-ov-file#usage) <br/>
 
 ## Requirements
 This project uses [Numpy](https://numpy.org/) and [PIL](https://pillow.readthedocs.io/en/stable/reference/Image.html)

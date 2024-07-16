@@ -3,7 +3,7 @@ A project for compresing images using SVD algorithm. The script splits the image
 the image with reduced dimensions. This compression technique can significantly reduce the size of the image while preserving its visual quality.
 
 ## Tabel of content
-- [Requirements](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort/blob/main/README.md#divide-function) <br/>
+- [Requirements](https://github.com/KimiyaVahidMotlagh/ImgCompresionSVD/tree/main#requirements) <br/>
 - [Code Explanation](https://github.com/KimiyaVahidMotlagh/Threeway_Mergesort/blob/main/README.md#advantages) <br/>
 - [Usage](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort/blob/main/README.md#run-and-evaluation) <br/>
 
